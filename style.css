@@ -1,0 +1,79 @@
+.navbar-custom {
+    padding: 10px 0;
+}
+
+.navbar .navbar-brand {
+    font-size: 25px;
+}
+
+.banner {
+    background-image: url("laprak 5.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+}
+
+.lingkaran {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    color: #fff;
+    background-color: #dc3545;
+}
+
+.custom-bg {
+    background-color: #2C2439;
+    color: white;
+}
+
+.about img {
+    border: 5px solid #a1a0a0;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 300px;
+    background-color: #dc3545;
+}
+
+.flex-box {
+    margin: auto;
+    width: 1140px;
+    height: auto;
+    border-radius: 20px;
+    background-color: #392F4A;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.form-control {
+    margin: auto;
+    border: none;
+    width: 460px;
+}
+
+.contact button {
+    width: 150px;
+}
+
+footer {
+    background-color: #2C2439;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
